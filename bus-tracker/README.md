@@ -1,24 +1,30 @@
 <!-- README -->
 
-PROJECT NAME:   Real Time Bus Tracker
+# PROJECT NAME:   
+## Real Time Bus Tracker
 
-ABOUT:          This project involes the use of Mapbox API, styling with CSS, and animation with JS.
-                 When running this program it will display a map provided by Mapbox's API with chosen satellite/street
-                 styling. Additional styling is completed with the UI to improve UX with the addition of Zoom and 
-                 plane adjustment. The marker color has been changed to Red.
+# ABOUT:          
 
-HOW TO DEPLOY:  After opening in the browser, there will be a styled CSS button with a hover effect. 
-                Simply click the button and the JS will execute by moving the map marker to Latitude/Longitude
-                of all the known bus stops between MIT and Harvard.
+This project involes the use of Mapbox API, styling with CSS, and animation with JS.
+When running this program it will display a map provided by Mapbox's API with chosen satellite/street
+styling. Additional styling is completed with the UI to improve UX with the addition of Zoom and 
+plane adjustment. The marker color has been changed to Red.
 
-FUTURE
-IMPROVEMENTS:   Future improvements for the project include different marker styling, in the form of a bus that
-                changes colors, and improving the UI/UX for the user to change the style of the map between
-                satellite to night mode to traffic mode layers.
+# HOW TO DEPLOY:  
 
-                MIT License
+After opening in the browser, there will be a styled CSS button with a hover effect. 
+Simply click the button and the JS will execute by moving the map marker to Latitude/Longitude
+of all the known bus stops between MIT and Harvard.
 
-Copyright (c) 2020 John Williams
+# FUTURE IMPROVEMENTS:   
+
+Future improvements for the project include different marker styling, in the form of a bus that
+changes colors, and improving the UI/UX for the user to change the style of the map between
+satellite to night mode to traffic mode layers.
+
+# MIT License
+
+Copyright (c) 2022 William Hicks
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
